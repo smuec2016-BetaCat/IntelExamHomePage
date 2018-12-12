@@ -1,0 +1,15 @@
+enable : true
+heading : 关于
+headingSpan : 我们
+aboutItem : 
+- icon : tf-anchor2
+  title : "TODO 2: 标题"
+  content : "TODO 2: 内容"
+
+- icon : tf-anchor2
+  title : "TODO 2: 标题"
+  content : "TODO 2: 内容"
+
+- icon : tf-anchor2
+  title : "TODO 2: 标题"
+  content : "TODO 2: 内容"

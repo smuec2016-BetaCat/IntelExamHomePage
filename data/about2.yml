@@ -1,0 +1,13 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : 我们是 BetaCat 团队
+description : "TODO 3: 描述 段一"
+description2 : "TODO 3: 描述 段二"
+aboutItem : 
+  - icon : tf-circle-compass
+    title : "TODO 3: 子标题"
+    content : "TODO 3: 描述"
+    
+  - icon : tf-hotairballoon
+    title : "TODO 3: 子标题"
+    content : "TODO 3: 描述"
