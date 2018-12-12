@@ -1,4 +1,4 @@
-baseURL = "https://github.com/smuec2016-BetaCat/IntelExamHomePage"
+baseURL = "http://itsyuekao.com"
 languageCode = "zh-CN"
 title = "Listener | “知音”智慧考场"
 theme = "meghna-hugo"
