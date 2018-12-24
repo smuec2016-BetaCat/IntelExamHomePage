@@ -3,8 +3,6 @@ languageCode = "zh-CN"
 title = "Listener | “知音”智慧考场"
 theme = "meghna-hugo"
 
-publishDir = "docs"
-
 # Menu
 [menu]
     [[menu.nav]]
