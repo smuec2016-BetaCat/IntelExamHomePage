@@ -2,14 +2,14 @@ enable : true
 heading : 关于
 headingSpan : 我们
 aboutItem : 
-- icon : tf-anchor2
-  title : "TODO 2: 标题"
-  content : "TODO 2: 内容"
+- icon : tf-ion-icecream
+  title : "年轻活跃"
+  content : "年轻团队，崭新理想"
 
-- icon : tf-anchor2
-  title : "TODO 2: 标题"
-  content : "TODO 2: 内容"
+- icon : tf-ion-gear-a
+  title : "技术领先"
+  content : "技术驱动，未来导向"
 
-- icon : tf-anchor2
-  title : "TODO 2: 标题"
-  content : "TODO 2: 内容"
+- icon : tf-ion-android-send
+  title : "勇于创新"
+  content : "打破常规，放飞自我"

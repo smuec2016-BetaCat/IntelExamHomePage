@@ -1,13 +1,11 @@
 enable : true
 image : images/about/about-business-man.jpg
 title : 我们是 BetaCat 团队
-description : "TODO 3: 描述 段一"
-description2 : "TODO 3: 描述 段二"
 aboutItem : 
   - icon : tf-circle-compass
-    title : "TODO 3: 子标题"
-    content : "TODO 3: 描述"
+    title : "关于我们"
+    content : "BetaCat拥有国内领先技术，科学的管理体系和完善的培训机制，团队成员拥有积极的工作态度、优秀的学习能力，团队氛围活跃，工作高效。"
     
   - icon : tf-hotairballoon
-    title : "TODO 3: 子标题"
-    content : "TODO 3: 描述"
+    title : "团队管理"
+    content : "BetaCat是一个集聚人才的团队，团队成员有架构师、数据工程师，前、后端工程师、设计师、DBA、媒体运营专员、运维工程师。"

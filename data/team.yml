@@ -1,0 +1,115 @@
+enable : true
+heading : 我们的
+headingSpan : 团队
+teamMember :
+  - image : images/team/team-1.jpg
+    name : 王溶
+    designation : 业务经理
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/team-2.jpg
+    name : 王思琪
+    designation : 媒体设计
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/team-3.jpg
+    name : 陆琰
+    designation : 专利申请
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+      
+  - image : images/team/team-4.jpg
+    name : 张禾
+    designation : 市场营销
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+
+  - image : images/team/team-4.jpg
+    name : 杨蔚斌
+    designation : 前端开发
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+
+  - image : images/team/team-4.jpg
+    name : 沈晓岑
+    designation : 后端开发
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"
+
+  - image : images/team/team-4.jpg
+    name : 刘思艺
+    designation : UI设计
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"        
+
+  - image : images/team/team-4.jpg
+    name : 蔡俊弛
+    designation : 硬件工程
+    description : "TODO: 简介"
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "#"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"        

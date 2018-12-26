@@ -3,25 +3,13 @@ heading : 产品
 headingSpan : 特色
 serviceItem :
   - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
+    title : "标准升级"
+    content : "打造一个更加严谨的评分系统"
   
   - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
+    title : "公平升级"
+    content : "营造一个公平公正，客观公开的考级风气"
   
   - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
-
-  - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
-
-  - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
-    
-  - icon : tf-globe
-    title : "TODO 4: 产品特色"
-    content : "TODO 4: 特色描述"
+    title : "智能升级"
+    content : "使评判过程更加智能化，客观化"

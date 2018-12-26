@@ -1,0 +1,18 @@
+enable : true
+heading : 联系
+headingSpan : 我们
+title : 联系方式
+content : " "
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "地址：上海市浦东新区海港大道1550号"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "联系电话：38289999"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "电子邮箱: contact@itsyuekao.com"
+    
