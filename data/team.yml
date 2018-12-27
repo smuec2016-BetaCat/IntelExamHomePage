@@ -2,114 +2,43 @@ enable : true
 heading : 我们的
 headingSpan : 团队
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/wr.jpg
     name : 王溶
     designation : 业务经理
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    description : "整体业务规划与工作分配"
       
-  - image : images/team/team-2.jpg
+  - image : images/team/wsq.jpg
     name : 王思琪
-    designation : 媒体设计
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-      
-  - image : images/team/team-3.jpg
+    designation : 艺术总监
+    description : "专注媒体设计与视频制作"
+
+  - image : images/team/ly.jpg
     name : 陆琰
     designation : 专利申请
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    description : "三大专利申请与交底书撰写"
       
-  - image : images/team/team-4.jpg
+  - image : images/team/zh.jpg
     name : 张禾
     designation : 市场营销
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    description : "市场调研与营销策略制定"
 
-  - image : images/team/team-4.jpg
+  - image : images/team/ywb.jpg
     name : 杨蔚斌
     designation : 前端开发
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
-
-  - image : images/team/team-4.jpg
+    description : "前端应用研发与用户体验优化"
+  
+  - image : images/team/sxc.jpg
     name : 沈晓岑
     designation : 后端开发
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"
+    description : "产品后端服务开发与数据库设计"
 
-  - image : images/team/team-4.jpg
+  - image : images/team/lsy.jpg
     name : 刘思艺
     designation : UI设计
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"        
+    description : "用户界面设计与整体艺术风格"    
 
-  - image : images/team/team-4.jpg
+  - image : images/team/cjc.jpg
     name : 蔡俊弛
     designation : 硬件工程
-    description : "TODO: 简介"
-    socialIcon :
-      - icon : tf-ion-social-facebook
-        url : "#"
-      - icon : tf-ion-social-twitter
-        url : "#"
-      - icon : tf-ion-social-linkedin
-        url : "#"
-      - icon : tf-ion-social-dribbble-outline
-        url : "#"        
+    description : "树莓派安装与平台应用开发"
+   
